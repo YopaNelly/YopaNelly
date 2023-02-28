@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @YopaNelly
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YopaNelly)](https://github.com/anuraghazra/github-readme-stats)
 - 👀 I’m interested in coding, programming and learning new things
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on ...
