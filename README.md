@@ -1,9 +1,15 @@
-Hey there, I’m YopaNelly
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YopaNelly)](https://github.com/anuraghazra/github-readme-stats)
-- 👀 I’m interested in coding, programming and learning new things
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me yopatatchou@gmail.com
+## Hey there!👋, I’m Yopa Nelly😊
+😎 I am a first year computer engineering  student at NAHPI Bamenda.
+
+💕 I love reading and watching action films In my spare 😉
+
+🗻 In my spare time, I love reading and watching science fiction or anything science-related.
+
+💬 contac me via my email address, yopatatchou@gmail.com
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YopaNelly&show_icons=true&theme=radical)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YopaNelly&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 YopaNelly/YopaNelly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
