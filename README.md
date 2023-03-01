@@ -1,5 +1,5 @@
 ## Hey there!👋, I’m Yopa Nelly😊
-😎 I am a first year computer engineering  student at NAHPI Bamenda.
+😎 I am a first year computer engineering  student.
 
 💕 I love reading and watching action films In my spare 😉
 
