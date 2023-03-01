@@ -3,8 +3,6 @@
 
 💕 I love reading and watching action films In my spare 😉
 
-🗻 In my spare time, I love reading and watching science fiction or anything science-related.
-
 💬 contac me via my email address, yopatatchou@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YopaNelly&show_icons=true&theme=radical)
