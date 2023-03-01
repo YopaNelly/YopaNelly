@@ -1,7 +1,7 @@
 ## Hey there!👋, I’m Yopa Nelly😊
 😎 I am a first year computer engineering  student.
 
-💕 I love reading and watching  😉
+💕 I love *coding*  😉
 
 💬 contac me via my email address, yopatatchou@gmail.com
 
