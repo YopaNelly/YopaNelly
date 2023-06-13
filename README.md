@@ -3,6 +3,10 @@
 
 💕 I love *coding*  😉
 
+👩🏾‍💻 I am currently pursuing the knowledge of Machine Learning and Artificial Intelligence😇
+
+👀 I am eagerly looking forward to collaborating with all of you.😊
+
 💬 contac me via my email address, yopatatchou@gmail.com
 
 
