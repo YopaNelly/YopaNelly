@@ -7,7 +7,7 @@
 
 👀 I am eagerly looking forward to collaborating with all of you.😊
 
-💬 contac me via my email address, yopatatchou@gmail.com
+💬 Please feel free to contact me through my email address: yopatatchou@gmail.com
 
 
 <h3 align="left">My Stats</h3>
