@@ -5,7 +5,7 @@
 
 👩🏾‍💻 I am currently pursuing the knowledge of Machine Learning and Artificial Intelligence😇
 
-👀 I am eagerly looking forward to collaborating with all of you.😊
+👀 I am eagerly looking forward to collaborating with all of you.
 
 💬 Please feel free to contact me through my email address: yopatatchou@gmail.com
 
