@@ -1,5 +1,5 @@
 ## Hey there!👋, I’m Yopa Nelly😊
-😎 I am a first year computer engineering  student.
+😎 I am a computer engineering  student.
 
 💕 I love *coding*  😉
 
